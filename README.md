@@ -11,5 +11,7 @@ List of Go Resources
 ## Ryan Dahl Node Concerns
 * https://thenewstack.io/node-js-creator-blasts-node-js-offers-a-secure-typescript-based-alternative/
 
+## From Node JS To Go
+* https://scotch.io/tutorials/moving-from-nodejs-to-go
 
 
