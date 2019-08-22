@@ -4,7 +4,8 @@ List of Go Resources
 * [Strings, bytes, runes and characters in Go](https://blog.golang.org/strings)
 * https://blog.golang.org/concurrency-is-not-parallelism
 * https://golang.org/doc/effective_go.html
-* [Tony Hoare Communicating Sequential Processes] (https://en.wikipedia.org/wiki/Communicating_sequential_processes)
+* [Tony Hoare Communicating Sequential Processes](https://en.wikipedia.org/wiki/Communicating_sequential_processes)
+* https://blog.golang.org/gos-declaration-syntax
 
 ## The Little Go BoStrings, bytes, runes and characters in Goo(k
 * [Site](https://github.com/k)arlseguin/the-little-go-book)
