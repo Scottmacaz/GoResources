@@ -1,7 +1,9 @@
 # GoResources
 List of Go Resources
-## Blog Posts
+## Things to read
 * [Strings, bytes, runes and characters in Go](https://blog.golang.org/strings)
+* https://blog.golang.org/concurrency-is-not-parallelism
+* https://golang.org/doc/effective_go.html
 
 ## The Little Go BoStrings, bytes, runes and characters in Goo(k
 * [Site](https://github.com/k)arlseguin/the-little-go-book)
