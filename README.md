@@ -1,8 +1,10 @@
 # GoResources
 List of Go Resources
+## Blog Posts
+* [Strings, bytes, runes and characters in Go](https://blog.golang.org/strings)
 
-## The Little Go Book
-* [Site](https://github.com/karlseguin/the-little-go-book)
+## The Little Go BoStrings, bytes, runes and characters in Goo(k
+* [Site](https://github.com/k)arlseguin/the-little-go-book)
 * [PDF](https://www.openmymind.net/assets/go/go.pdf)
 
 ## Introduction to Programming in Go
